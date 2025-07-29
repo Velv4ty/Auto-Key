@@ -1,4 +1,4 @@
-#Auto Key
+# Auto Key
 Auto Key is a program written in Python 3.15.3 that simulates keystrokes at a customizable interval
 
 The number of keystrokes their spee, and the start/stop input are all configurable
