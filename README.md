@@ -1,8 +1,9 @@
-# auto-key
-Auto Key is a program wrote in python 3.15.3 that simulate keystrokesat a settable interval.
+#Auto Key
+Auto Key is a program written in Python 3.15.3 that simulates keystrokes at a customizable interval
 
-the amount of keystrokes its speed and the start/stop input are all customisable
+The number of keystrokes their spee, and the start/stop input are all configurable
 
-The timer can also be turned on/off via a global hotkey combination (F5) for use in games and other applications without having to tab out.
+A global hotkey (F5) can also be used to toggle the timer on or off making it convenient for use in games or other applications without needing to tab out
 
-this is heavily inspired by OP AUTO CLICKER
+This program is heavily inspired by OP Auto Clicker
+
